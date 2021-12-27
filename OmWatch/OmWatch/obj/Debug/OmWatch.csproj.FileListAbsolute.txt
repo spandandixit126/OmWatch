@@ -1,0 +1,10 @@
+F:\C# Projects\OmWatch\OmWatch\bin\OmWatch.dll
+F:\C# Projects\OmWatch\OmWatch\bin\OmWatch.pdb
+F:\C# Projects\OmWatch\OmWatch\obj\Debug\OmWatch.csprojResolveAssemblyReference.cache
+F:\C# Projects\OmWatch\OmWatch\obj\Debug\OmWatch.dll
+F:\C# Projects\OmWatch\OmWatch\obj\Debug\OmWatch.pdb
+F:\Others\C# Projects\OmWatch\OmWatch\bin\OmWatch.dll
+F:\Others\C# Projects\OmWatch\OmWatch\bin\OmWatch.pdb
+F:\Others\C# Projects\OmWatch\OmWatch\obj\Debug\OmWatch.csprojResolveAssemblyReference.cache
+F:\Others\C# Projects\OmWatch\OmWatch\obj\Debug\OmWatch.dll
+F:\Others\C# Projects\OmWatch\OmWatch\obj\Debug\OmWatch.pdb

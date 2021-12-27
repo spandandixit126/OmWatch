@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master_Page_User.Master.cs" Inherits="OmWatch.Master_Page" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+        height: 46px;
+    }
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <div class="topnav">
+                <a class="active" href="Main_Page.aspx">Home</a> <a href="Orders_Page.aspx">Your Orders</a> <a href="ContactUS.aspx">Contact US</a> <a href="AboutUS.aspx">About</a> <a href="Login_Page.aspx">LogOut</a>
+                <br />
+                <br />
+                <br />
+            </div>
+
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
